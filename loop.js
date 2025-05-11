@@ -16,5 +16,13 @@ for(const item of fruits){
 
 //Practice
 
-//1. 
+//1. তুই 5টা পছন্দের সাবজেক্টের নাম লেখ। তারপর প্রোগ্রাম লিখে দেখ, কীভাবে লুপ ব্যবহার করে সব সাবজেক্টের নাম আলাদাভাবে প্রিন্ট হবে।
+
+const books = ['bangla', 'english', 'science', 'islam', 'math'];
+
+for(const bookNames of books){
+    console.log(bookNames);
+}
+
+//2. 
 
